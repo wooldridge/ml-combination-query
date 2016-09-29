@@ -1,0 +1,14 @@
+{
+  "name": "ml-combination-query",
+  "version": "0.0.1",
+  "description": "Example of Node.js client combination queries",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marklogic": "^1.0.5",
+    "request-promise": "^3.0.0"
+  }
+}
