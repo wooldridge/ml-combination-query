@@ -1,0 +1,8 @@
+{
+  "triple": {
+    "subject": "/temp/twitter/456.json",
+    "predicate": "http://example.org/follows",
+    "object": "/temp/twitter/123.json"
+  }
+}
+

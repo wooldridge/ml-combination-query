@@ -1,0 +1,8 @@
+{
+  "triple": {
+    "subject": "/temp/twitter/123.json",
+    "predicate": "http://example.org/bornIn",
+    "object": "USA"
+  }
+}
+

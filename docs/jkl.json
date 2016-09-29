@@ -1,0 +1,11 @@
+{
+  "id": "jkl",
+  "tweet": "who's on first fox",
+  "timestamp": "2012-01-01T08:00:00",
+  "triple": {
+    "subject": "/temp/twitter/456.json",
+    "predicate": "http://example.org/tweeted",
+    "object": "/temp/twitter/jkl.json"
+  }
+}
+

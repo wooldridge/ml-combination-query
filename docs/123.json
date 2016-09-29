@@ -1,0 +1,11 @@
+{
+  "author-id": "http://example.org/person/a.json",
+  "author": "Aaron",
+  "signup-date": "2010-01-01T00:00:00",
+  "triple": {
+    "subject": "http://example.org/person/a.json",
+    "predicate": "http://example.org/follows",
+    "object": "http://example.org/person/b.json"
+  }
+}
+

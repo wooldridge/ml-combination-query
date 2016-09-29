@@ -1,0 +1,11 @@
+{
+  "id": "ghi",
+  "tweet": "to be or not to be",
+  "timestamp": "2015-01-01T08:00:00",
+  "triple": {
+    "subject": "/temp/twitter/123.json",
+    "predicate": "http://example.org/tweeted",
+    "object": "/temp/twitter/ghi.json"
+  }
+}
+
